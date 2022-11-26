@@ -1,0 +1,30 @@
+Alunos: Geovane Pinho e Alinne Pinheiro
+
+Magica dos 3 montes e 21 elementos:
+
+
+Criar 3 listas com 7 elementos cada, podemos dar o nome das listas de A, B ou C.
+
+Mostrar a listas em forma de colunas para o usuario usando a função for.
+
+Pedir para escolher um elemento e dizer apenas em qual coluna ele pertence.
+
+Para saber a lista que ele escolher sera usado if, onde a escolhida ficara entre as outras e 
+concatenada numa lista maior com os 21 elementos.
+
+Separar a lista de 21 elemnentos em outras 3 listas, onde o primeiro elemento pertence a 
+lista A,o segundo a B, terceiro a C, quarto a A e repetir o precosesso ate finalizar 7 elemtentos cada.
+
+Mostrar a listas em forma de colunas para o usuario usando a função for.
+
+Pedir qual a coluna que o elemento dele está agora.
+
+Concatena a coluna que ele escolheu estando entre as duas em uma lista maior.
+
+Novamente separa as listas em 3.
+
+Mostrar a listas em forma de colunas para o usuario usando a função for.
+
+A coluna que ele escolher sera concatenada numa lista maior entre as outras duas colunas.
+
+Mostre ao usuario o decimo primeiro elemento dessa lista, será o elemento que ele escolheu.
